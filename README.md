@@ -9,7 +9,6 @@ The design is focused on user experience, responsiveness, accessibility, and vis
 ## 📁 Contents
 
 - `documentation/` - Project documentation
-- `figma-link.txt` - Direct link to the Figma prototype
 
 ## 📎 Figma Prototype
 
