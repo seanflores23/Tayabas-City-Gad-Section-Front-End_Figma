@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f5b185e4-9a53-4212-9913-35cfbd1180a3)# Tayabas City Website - Front-End Design
+# Tayabas City Website - Front-End Design
 
 This repository contains the front-end design documentation and prototype files for the official Tayabas City website, developed using Figma.
 
